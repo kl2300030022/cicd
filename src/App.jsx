@@ -11,9 +11,9 @@ function App() {
       
       <h1>HELLO</h1>
       <p>
-        okayy
+        1st deployment
       </p>
-      <h2>THIS LINE IS KEPT AFTE THE 1ST DEPLOYMENT</h2>
+      <h2>THIS LINE IS KEPT AFTEr THE 1ST DEPLOYMENT</h2>
     </>
   )
 }
