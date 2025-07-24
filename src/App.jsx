@@ -13,6 +13,7 @@ function App() {
       <p>
         okayy
       </p>
+      <h2>THIS LINE IS KEPT AFTE THE 1ST DEPLOYMENT</h2>
     </>
   )
 }

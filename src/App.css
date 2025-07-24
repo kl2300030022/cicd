@@ -3,4 +3,7 @@ h1{
 }
 p{
   color: blue;
-}mkdir -p .github/workflows
+}
+h2{
+  color: green;
+}
